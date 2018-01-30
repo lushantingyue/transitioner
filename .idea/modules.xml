@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TransitionerLibrary.iml" filepath="$PROJECT_DIR$/TransitionerLibrary.iml" />
+      <module fileurl="file://E:\github_demo\transitioner\TransitionerLibrary.iml" filepath="E:\github_demo\transitioner\TransitionerLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/transitioner/transitioner.iml" filepath="$PROJECT_DIR$/transitioner/transitioner.iml" />
+      <module fileurl="file://E:\github_demo\transitioner\app\app.iml" filepath="E:\github_demo\transitioner\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transitioner.iml" filepath="$PROJECT_DIR$/transitioner.iml" />
+      <module fileurl="file://E:\github_demo\transitioner\transitioner\transitioner.iml" filepath="E:\github_demo\transitioner\transitioner\transitioner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transitioner/transitioner-transitioner.iml" filepath="$PROJECT_DIR$/transitioner/transitioner-transitioner.iml" />
     </modules>
   </component>
 </project>
